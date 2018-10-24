@@ -89,7 +89,7 @@ int main()
 
     Line ln(p1,p2);
     
-    cout << "The length is " << l.length() << endl;
+    cout << "The length is " << ln.length() << endl;
   
     return 0;
 }
